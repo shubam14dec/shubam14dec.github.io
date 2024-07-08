@@ -111,9 +111,8 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
     1. Cluster Management: Manage clusters of users or delivery zones efficiently.
     2. Coupon Distribution: Track which users belong to specific promotional groups to avoid redundancy and ensure fair distribution.
 - Code : [Union_find](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/union_find.cpp)
+  
 ---
-
-
 
 # Efficiency analysis
 
