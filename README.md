@@ -108,10 +108,10 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
   - There are studies that provide insights on how to handle problems with multi-pickups and deliveries with time windows. For instance, Tran et al. (2021) introduce the Smooth Max-Min Ant System, an approach that utilizes Ant Colony Optimization to manage complex delivery schedules and time-sensitive deliveries.
  **Points of Interest (POIs)**
   - Focusing on food delivery, we’re keen to understand the distribution of cafes and restaurants within the Bloor-Yonge area. By leveraging the overpass API, we can query OpenStreetMap to fetch a comprehensive list of these entities, all within a 2km radius of our map's center. This compilation will constitute our POI map. In the map below, red dots represent the location of either a cafe or a restaurant.
- ![POI](port8.jpg)
+ ![POI](port8.webp)
  **Heat Map**
   - Building on our POI map, we can explore deeper into the locations of cafes and restaurants using a heat map. This visualization enables us to pinpoint areas with a higher concentration of these establishments.
- ![Heat Map](port9.jpg)
+ ![Heat Map](port9.webp)
   **problem formulation**
    - Let G = (N, A) be a graph where N is the set of nodes including the business circle and customer locations and A is the set of arcs representing possible paths between nodes.
    - Each node i ∈ N has a demand q_i, the number of food items to be delivered, and a time window [a_i, b_i] within which the delivery must occur.
