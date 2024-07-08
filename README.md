@@ -88,26 +88,25 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
 
 
 4. **Efficient Navigation**
-  - Breadth-First Search (BFS) and Depth-First Search (DFS)
-     Use Case: Traverse or search tree or graph data structures.
-     Application:
-        Map Navigation: Provide accurate and efficient navigation within the application's map feature.
-        Recommendation System: Traverse user preference graphs to suggest similar restaurants or dishes.
+     - Breadth-First Search (BFS) and Depth-First Search (DFS)
+     - Use Case: Traverse or search tree or graph data structures.
+     - Application:
+        1. Map Navigation: Provide accurate and efficient navigation within the application's map feature.
+        2. Recommendation System: Traverse user preference graphs to suggest similar restaurants or dishes.
     
 5. **Personalised recommendation system**
   - Recommendation System
-- Functionality: Providing personalized food recommendations based on user preferences and past orders.
-- Key Algorithms:
-     Collaborative Filtering: To recommend items based on user behavior.
-     Content-Based Filtering: To recommend items based on item attributes and user preferences.
-     BFS/DFS: To traverse user preference graphs.
+  - Functionality: Providing personalized food recommendations based on user preferences and past orders.
+  - Key Algorithms:
+    1. Content-Based Filtering: To recommend items based on item attributes and user preferences.
+    2. BFS/DFS: To traverse user preference graphs.
 
 6. **Union-Find (Disjoint Set Union)**
     
 - Use Case: Keep track of a partition of a set into disjoint subsets.
 - Application:
-    -- Cluster Management: Manage clusters of users or delivery zones efficiently.
-    -- Coupon Distribution: Track which users belong to specific promotional groups to avoid redundancy and ensure fair distribution.
+    1. Cluster Management: Manage clusters of users or delivery zones efficiently.
+    2. Coupon Distribution: Track which users belong to specific promotional groups to avoid redundancy and ensure fair distribution.
 
 ---
 
