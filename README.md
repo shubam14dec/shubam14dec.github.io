@@ -70,7 +70,7 @@ Key to this efficiency are the algorithms that power these services. At the core
     - Application:
           Customer Spending Tracking: Maintain and query the total spending of customers over time to offer personalized discounts or loyalty rewards.
           Order Statistics: Quickly compute cumulative statistics like the total number of orders or the total revenue generated in a specific time period.
-
+    - Code: [Fenwick Tree](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/Fenwick_trees.cpp)
 2. **Typeahead search**
 Typeahead search refers to the functionality where the user types part of the query they are intending to search for (e.g., restaurant name, dish name, or cuisine), and a list of potential matches is prompted back to the user to choose from.
 
@@ -78,14 +78,15 @@ Typeahead search refers to the functionality where the user types part of the qu
 Trie: A popular data structure used to efficiently store and retrieve keys in a dataset of strings. It's particularly useful for dictionary-like functionalities, such as autocomplete or typeahead search.
     - Algorithms:
 Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth-First Search (DFS) can be utilized to find the k-nearest words or matches based on the user’s input.
-
-
+    - Code : [DFS](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/dfs.cpp)
+    - Code : [BFS](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/bfs.cpp)
+      
 3. **Trie Data Structure**
     - Use Case: Efficient retrieval of strings.
     - Application:
         1. Typeahead Search: Implement autocomplete functionality for search queries (e.g., restaurant names, dish names, cuisines).
         2. Menu Search: Allow users to quickly find dishes or restaurants by typing partial names.
-
+    - Code : [Trie](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/trie.cpp)
 
 4. **Efficient Navigation**
      - Breadth-First Search (BFS) and Depth-First Search (DFS)
@@ -93,7 +94,7 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
      - Application:
         1. Map Navigation: Provide accurate and efficient navigation within the application's map feature.
         2. Recommendation System: Traverse user preference graphs to suggest similar restaurants or dishes.
-    
+     - Code: [kruskal](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/kruskal.cpp)
 5. **Personalised recommendation system**
   - Recommendation System
   - Functionality: Providing personalized food recommendations based on user preferences and past orders.
@@ -109,7 +110,7 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
 - Application:
     1. Cluster Management: Manage clusters of users or delivery zones efficiently.
     2. Coupon Distribution: Track which users belong to specific promotional groups to avoid redundancy and ensure fair distribution.
-
+- Code : [Union_find](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/union_find.cpp)
 ---
 
 # Efficiency analysis
