@@ -83,8 +83,8 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
 3. **Trie Data Structure**
     - Use Case: Efficient retrieval of strings.
     - Application:
-        --Typeahead Search: Implement autocomplete functionality for search queries (e.g., restaurant names, dish names, cuisines).
-        --Menu Search: Allow users to quickly find dishes or restaurants by typing partial names.
+        1. Typeahead Search: Implement autocomplete functionality for search queries (e.g., restaurant names, dish names, cuisines).
+        2. Menu Search: Allow users to quickly find dishes or restaurants by typing partial names.
 
 
 4. **Efficient Navigation**
