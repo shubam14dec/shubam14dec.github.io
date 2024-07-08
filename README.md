@@ -89,8 +89,8 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
 
 4. **Efficient Navigation**
   - Breadth-First Search (BFS) and Depth-First Search (DFS)
-    -- Use Case: Traverse or search tree or graph data structures.
-    -- Application:
+     Use Case: Traverse or search tree or graph data structures.
+     Application:
         Map Navigation: Provide accurate and efficient navigation within the application's map feature.
         Recommendation System: Traverse user preference graphs to suggest similar restaurants or dishes.
     
