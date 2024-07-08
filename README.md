@@ -100,6 +100,8 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
   - Key Algorithms:
     1. Content-Based Filtering: To recommend items based on item attributes and user preferences.
     2. BFS/DFS: To traverse user preference graphs.
+    
+![Recommendation](port7.jpg)
 
 6. **Union-Find (Disjoint Set Union)**
     
