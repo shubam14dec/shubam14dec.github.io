@@ -131,3 +131,10 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
 ---
 
 # References
+[1]  "Crowdsourced on-demand food delivery: An order batching and assignment algorithm" Available: [https://www.sciencedirect.com/science/article/pii/S0968090X2300044X](https://www.sciencedirect.com/science/article/pii/S0968090X2300044X)
+
+[2]  "HOW DOES THE FOOD DELIVERY APPS ALGORITHM WORK?" Available:([https://systemdesignschool.io/problems/typeahead/solution](https://www.deliverect.com/en/blog/online-food-delivery/how-does-food-delivery-apps-algorithm-work))
+
+[3]  "Optimizing Delivery Routes: Zomato’s Algorithm-Driven Approach" Available: [https://medium.com/@yadnesh.pathak21/optimizing-delivery-routes-zomatos-algorithm-driven-approach-f15bc46d4538](https://medium.com/@yadnesh.pathak21/optimizing-delivery-routes-zomatos-algorithm-driven-approach-f15bc46d4538)
+
+[4]  "Optimizing Food Delivery Routes with Ant Colony Optimization" Available: [https://medium.com/ai4sm/food-delivery-optimization-using-ant-colony-optimization-05aefff3077e]([https://ffmpeg.org/](https://medium.com/ai4sm/food-delivery-optimization-using-ant-colony-optimization-05aefff3077e))
