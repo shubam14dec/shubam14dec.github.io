@@ -66,8 +66,8 @@ Key to this efficiency are the algorithms that power these services. At the core
 
 # Functionalities
 1. **Fenwick Trees (Binary Indexed Trees)**
-    -Use Case: Efficiently manage and query prefix sums.
-    -Application:
+    - Use Case: Efficiently manage and query prefix sums.
+    - Application:
           Customer Spending Tracking: Maintain and query the total spending of customers over time to offer personalized discounts or loyalty rewards.
           Order Statistics: Quickly compute cumulative statistics like the total number of orders or the total revenue generated in a specific time period.
 
@@ -82,32 +82,32 @@ Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth
 
 3. **Trie Data Structure**
     - Use Case: Efficient retrieval of strings.
-    -Application:
+    - Application:
         --Typeahead Search: Implement autocomplete functionality for search queries (e.g., restaurant names, dish names, cuisines).
         --Menu Search: Allow users to quickly find dishes or restaurants by typing partial names.
 
 
 4. **Efficient Navigation**
   - Breadth-First Search (BFS) and Depth-First Search (DFS)
-    --Use Case: Traverse or search tree or graph data structures.
-    --Application:
+    -- Use Case: Traverse or search tree or graph data structures.
+    -- Application:
         Map Navigation: Provide accurate and efficient navigation within the application's map feature.
         Recommendation System: Traverse user preference graphs to suggest similar restaurants or dishes.
     
 5. **Personalised recommendation system**
-  Recommendation System
--Functionality: Providing personalized food recommendations based on user preferences and past orders.
--Key Algorithms:
-  Collaborative Filtering: To recommend items based on user behavior.
-  Content-Based Filtering: To recommend items based on item attributes and user preferences.
-  BFS/DFS: To traverse user preference graphs.
+  - Recommendation System
+- Functionality: Providing personalized food recommendations based on user preferences and past orders.
+- Key Algorithms:
+     Collaborative Filtering: To recommend items based on user behavior.
+     Content-Based Filtering: To recommend items based on item attributes and user preferences.
+     BFS/DFS: To traverse user preference graphs.
 
 6. **Union-Find (Disjoint Set Union)**
     
--Use Case: Keep track of a partition of a set into disjoint subsets.
--Application:
-    --Cluster Management: Manage clusters of users or delivery zones efficiently.
-    --Coupon Distribution: Track which users belong to specific promotional groups to avoid redundancy and ensure fair distribution.
+- Use Case: Keep track of a partition of a set into disjoint subsets.
+- Application:
+    -- Cluster Management: Manage clusters of users or delivery zones efficiently.
+    -- Coupon Distribution: Track which users belong to specific promotional groups to avoid redundancy and ensure fair distribution.
 
 ---
 
