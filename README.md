@@ -1,5 +1,5 @@
 # FOOD DELIVERY Portfolio
-![Food delivery portfolio](port3.webp)
+![Food delivery portfolio](port3_resize.webp)
 
 
 # APS portfolio on Food delivery application
