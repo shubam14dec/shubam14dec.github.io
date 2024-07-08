@@ -80,6 +80,8 @@ Trie: A popular data structure used to efficiently store and retrieve keys in a 
 Trie Traversal with BFS/DFS: Algorithms like Breadth-First Search (BFS) or Depth-First Search (DFS) can be utilized to find the k-nearest words or matches based on the user’s input.
     - Code : [DFS](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/dfs.cpp)
     - Code : [BFS](https://github.com/shubam14dec/shubam14dec.github.io/blob/main/codes/bfs.cpp)
+
+![Typeahead](port10.jpg)
       
 3. **Trie Data Structure**
     - Use Case: Efficient retrieval of strings.
